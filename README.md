@@ -1,5 +1,7 @@
 
-Please review the attached document to view the business plan I created for The Gaming Room's desired web based game application. This business plan was created in CS230 Operating Platforms at Southern New Hampshire University. This document demonstrates my ability to approach a project with client needs and requirements priortized and my ability to effectively communicate with stakeholders. 
+Please review the attached document, [Draw It or Lose It Business Requirements and Plans](https://github.com/JessicaDuft/Draw_It_Or_Lose_It/blob/main/Draw%20It%20Or%20Lose%20It%20Business%20Requirements%20and%20Plan.docx) , to view the business plan I created for The Gaming Room's desired web based game application. This business plan was created in CS230 Operating Platforms at Southern New Hampshire University. This document demonstrates my ability to approach a project with client needs and requirements priortized and my ability to effectively communicate with stakeholders. 
+
+
 
 
 
