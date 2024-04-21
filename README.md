@@ -11,7 +11,7 @@ Please review the attached document, [Draw It or Lose It Business Requirements a
 The client, The Gaming Room, created a web-based game application that they wanted to expand across multiple operating systems. 
 <br/>
 I was able to reccomend an operating platform for the company to use to expand theig game. I was also able to advise on development aspects such as memory and storage management, 
-#security,architecture, and networking. 
+security,architecture, and networking. 
 <br/>
 Personally, learning to create and read a UML diagram was extremely helpful for me. I'm a visual learner and it really helped me break down the requirements set forth by the company.
 <br/>
@@ -23,8 +23,16 @@ The client has a particular vision with particular needs. In order to satisfy th
 <br/>I approcahed designing this software by first analyxing the client's vision and requirements. I then mapped the requirements out and considered them in each step to ensure
 that the client's needs were fully met. 
 
-#I approached desiging this customer by analyzing and researching multiple operating systems that would allow the user to meet their needs. I then analyzed each opearting system
-#deeply and reccomended one that would best meet the client's needs as well after weighing out the advantages and disadvantages of each system. All documented for the client to review
-#and make an informed decision with. 
+I approached desiging this customer by analyzing and researching multiple operating systems that would allow the user to meet their needs. I then analyzed each opearting system
+deeply and reccomended one that would best meet the client's needs as well after weighing out the advantages and disadvantages of each system. All documented for the client to review
+and make an informed decision with. 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+[View my Eportfolio here](https://github.com/JessicaDuft/EPortfolio)
 
 
